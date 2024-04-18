@@ -62,6 +62,7 @@ body{
     height: 45px;
     cursor: pointer;
     text-align: center;
+    background : rgb(255, 75, 145);
 }
 
 .hamburger span{
@@ -70,7 +71,6 @@ body{
     width   : 35px;
     height  : 5px ;
     left    : 6px;
-    background : rgba(94, 18, 115, 0.7);
     -webkit-transition: 0.3s ease-in-out; /*変化に何秒かけるか*/
     -moz-transition   : 0.3s ease-in-out; /*他ベンダー*/
     transition        : 0.3s ease-in-out;
@@ -89,7 +89,6 @@ body{
 .hamburger.active .hline-top {
     top : 16px; /*中心*/
     left: 6px;
-    background :rgba(94, 18, 115, 0.7);
     -webkit-transform: rotate(-45deg);
     -moz-transform   : rotate(-45deg);
     transform        : rotate(-45deg);
@@ -98,7 +97,6 @@ body{
   .hamburger.active .hline-middle,
   .hamburger.active .hline-bottom {
     top: 16px;
-    background :rgba(94, 18, 115, 0.7);
     -webkit-transform: rotate(45deg);
     -moz-transform   : rotate(45deg);
     transform        : rotate(45deg);
@@ -108,7 +106,7 @@ body{
     z-index : 2;
     bottom  : 10%;
     color: #fff;
-    background: rgba(94, 18, 115, 0.7);
+    background: rgb(255, 75, 145);
     text-align: center;
     width: 100%;
     opacity: 0;
