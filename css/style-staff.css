@@ -1,7 +1,5 @@
 body{
     text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
     color: rgb(255, 245, 224);
     background-color: rgb(65, 176, 110);
 }
@@ -17,6 +15,8 @@ body{
 }
 
 .staff-title p{
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 15px;
     text-align: left;
 }
@@ -27,11 +27,15 @@ body{
 }
 
 .staff-content h3{
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 18px;
     text-align: left;
 
 }
 .staff-content p{
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 15px;
     text-align: left;
 }
