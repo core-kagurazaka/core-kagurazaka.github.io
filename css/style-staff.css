@@ -4,6 +4,10 @@ body{
     background-color: rgb(65, 176, 110);
 }
 
+hr{
+    color: rgb(255, 245, 224);
+}
+
 .staff-title h1{
     margin-top: 50px;
     margin-bottom: 20px;
