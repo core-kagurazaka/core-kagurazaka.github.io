@@ -4,8 +4,11 @@ body{
     background-color: rgb(65, 176, 110);
 }
 
-hr{
-    color: rgb(255, 245, 224);
+hr {
+ height: 3px;
+ background-color: rgb(255, 245, 224);
+ width: 90%;
+ border: none;
 }
 
 .staff-title h1{
