@@ -26,19 +26,15 @@ hr {
     text-align: left;
 }
 .photo img{
-    margin-left: 10%;
-    margin-right: 10%;
     margin-top: 15px;
     margin-bottom: 15px;
-    width: 100%;
+    width: 90%;
 }
 
 .staff-content h3{
     margin-left: 10%;
     margin-right: 10%;
     font-size: 18px;
-    text-align: left;
-
 }
 .staff-content p{
     margin-left: 10%;
