@@ -5,6 +5,8 @@ body{
 }
 
 hr {
+ margin-top: 15px;
+ margin-bottom: 15px;
  height: 3px;
  background-color: rgb(255, 245, 224);
  width: 90%;
