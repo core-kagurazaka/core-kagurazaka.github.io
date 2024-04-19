@@ -32,6 +32,7 @@ hr {
 }
 
 .staff-content h3{
+    margin-top: 20px;
     margin-left: 10%;
     margin-right: 10%;
     font-size: 18px;
@@ -45,10 +46,11 @@ hr {
 .footer{
     margin-top: 120px;
     margin-bottom: 60px;
+    background-color: rgb(255, 245, 224);
+    color: rgb(65, 176, 110);
 }
 .footer p{
     font-size: 9px;
-    color: rgb(255, 245, 224);
 }
 
 @media screen and ( min-width:600px ){
