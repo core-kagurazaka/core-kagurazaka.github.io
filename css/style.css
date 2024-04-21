@@ -9,6 +9,7 @@ body{
 .title{
     position: fixed;
     text-align: center;
+    top: 10px;
 }
 
 .title img{
