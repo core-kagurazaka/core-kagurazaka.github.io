@@ -6,14 +6,16 @@ body{
     background-color: rgb(64, 103, 158);
 }
 
-.title{
+/*.title{
     position: relative;
 }
+*/
+
 .title img{
-    position: relative;
-    width: 93%;
+    position: fixed;
+    width: 40%;
 }
-.title h2{
+/* .title h2{
     position:absolute;
     top: 57%;
     right: 10%;
@@ -21,10 +23,12 @@ body{
     font: sans-serif;
     color: #fff;
 }
+
 .title span{
     font-size: 15vw;
     font: sans-serif;
 }
+*/
 
 
 .hamburger{
