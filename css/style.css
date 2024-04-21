@@ -6,14 +6,12 @@ body{
     background-color: rgb(64, 103, 158);
 }
 
-/*.title{
-    position: relative;
-}
-*/
-
-.title img{
+.title{
     position: fixed;
     text-align: center;
+}
+
+.title img{
     width: 40%;
 }
 /* .title h2{
