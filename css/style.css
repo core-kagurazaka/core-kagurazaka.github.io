@@ -127,14 +127,15 @@ body{
 
 
 .message p{
-    font-size: 17px;
+    font-size: 14px;
     margin-top: 500px;
     margin-bottom: 70px;
     
 }
 
 .content h3{
-    margin-top: 55px;
+    margin-top: 60px;
+    margin-bottom: 20px
     font-size: 20px;
 }
 
