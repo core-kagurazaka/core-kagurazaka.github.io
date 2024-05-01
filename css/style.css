@@ -124,10 +124,12 @@ body{
     opacity: 100;
     pointer-events: all;
   }
-
+.topmargin p{
+    margin-top: 200px;
+}
 .contentimg{
     width: 100%;
-    margin-top: 300px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 .message p{
