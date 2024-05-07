@@ -29,7 +29,11 @@ body{
 }
 */
 
-
+.anchor{
+    display: block;
+    padding-top: 200px;
+    margin-top: -200px;
+}
 .hamburger{
     position: fixed;
     z-index : 2;
