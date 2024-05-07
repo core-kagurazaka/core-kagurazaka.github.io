@@ -16,7 +16,7 @@ hr {
     margin-top: 50px;
     margin-bottom: 30px;
     font-size: 28px;
-    color: rgb(65, 176, 110)
+    color: rgb(65, 176, 110);
 }
 
 .staff-title p{
@@ -38,6 +38,7 @@ hr {
     margin-left: 10%;
     margin-right: 10%;
     font-size: 18px;
+    color: rgb(65, 176, 110);
 }
 .staff-content p{
     margin-left: 10%;
@@ -53,6 +54,7 @@ hr {
 .footer p{
     padding: 50px 0;
     font-size: 9px;
+    color: gray;
 }
 
 @media screen and ( min-width:600px ){
