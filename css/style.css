@@ -128,6 +128,10 @@ body{
     opacity: 100;
     pointer-events: all;
   }
+
+
+
+
 .topmargin p{
     margin-top: 200px;
 }
@@ -139,7 +143,7 @@ body{
 .message p{
     font-size: 14px;
     margin-top: 30px;
-    margin-bottom: 70px;
+    margin-bottom: 30px;
     
 }
 
