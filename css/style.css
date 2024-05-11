@@ -119,7 +119,7 @@ body{
 
 
 .topmargin p{
-    margin-top: 150px;
+    margin-top: 110px;
 }
 .contentimg{
     width: 100%;
@@ -130,7 +130,7 @@ body{
     font-size: 14px;
     margin-top: 30px;
     margin-bottom: 30px;
-    
+    background-color: rgb(208, 191, 255);
 }
 
 .content h3{
