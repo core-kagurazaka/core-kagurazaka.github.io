@@ -180,21 +180,8 @@ body{
 
 /*デスクトップに適用するCSS*/
 @media screen and ( min-width:821px ){
-    body{
-        text-align: center;
-    }
-    
-    .title img{
-        width: 821px;
-    }
-    .title h2{
-        bottom: 0%;
-        font-size: 40px;
-    }
-    .title span{
-        font-size: 75px;
-        font: sans-serif;
-    }
-    
-
+  body{
+    text-align: center;
+    width: 800px;
+}
 }
