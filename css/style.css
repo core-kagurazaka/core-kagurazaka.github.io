@@ -131,6 +131,11 @@ body{
     margin-top: 40px;
     margin-bottom: 0px;
 }
+.contentimg_icon{
+    width: 60%;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
 .message p{
     font-size: 14px;
     margin-top: 30px;
@@ -181,7 +186,7 @@ body{
     font-size: 9px;
     color: gray;
 }
-.pc{display: none !important;}
+.pc{display: none;}
 
 /*デスクトップに適用するCSS*/
 @media screen and ( min-width:821px ){
