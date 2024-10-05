@@ -125,17 +125,15 @@ body{
     width: 100%;
     margin-top: 60px;
     margin-bottom: 20px;
+    pointer-events: none;
 }
 .contentimg_frame{
     width: 60%;
     margin-top: 40px;
     margin-bottom: 0px;
+    pointer-events: none;
 }
-.contentimg_icon{
-    width: 60%;
-    margin-top: 40px;
-    margin-bottom: 0px;
-}
+
 .message p{
     font-size: 14px;
     margin-top: 30px;
