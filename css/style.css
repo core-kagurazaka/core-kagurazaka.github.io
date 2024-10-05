@@ -188,7 +188,7 @@ body{
 
 /*デスクトップに適用するCSS*/
 @media screen and ( min-width:821px ){
-  .sp{
+  
     display: none !important;
-}
+
 }
