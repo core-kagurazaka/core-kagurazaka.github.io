@@ -186,7 +186,6 @@ body{
 /*デスクトップに適用するCSS*/
 @media screen and ( min-width:821px ){
   body{
-    text-align: center;
-    width: 500px;
+    display: none !important;
 }
 }
