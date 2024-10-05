@@ -181,11 +181,11 @@ body{
     font-size: 9px;
     color: gray;
 }
-
+.pc{display: none !important;}
 
 /*デスクトップに適用するCSS*/
 @media screen and ( min-width:821px ){
-  body{
+  .sp{
     display: none !important;
 }
 }
