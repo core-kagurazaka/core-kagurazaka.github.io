@@ -48,15 +48,21 @@ body{
 
 .content h3{
     margin-top: 60px;
-    margin-bottom: 35px
-    font-size: 22px;
+    margin-bottom: 50px
+    font-size: 23px;
+    font-weight: bold;
 }
 
 .content p{
     font-size: 16px;
 }
+.content span{
+    font-size: 21px;
+    font-weight: bold;
+}
 .tel-number a{
-    font-size: 19px;
+    font-size: 21px;
+    font-weight: bold;
     color: black;
     text-decoration:none;
 }
@@ -69,13 +75,6 @@ body{
     display: block;
 } 
 
-/*.instagram-media{
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-*/
-
 .instaflame{
     margin-left: auto!important;
     margin-right: auto!important;
@@ -87,7 +86,7 @@ body{
     margin-bottom: 40px;
 }
 .footer p{
-    font-size: 9px;
+    font-size: 10px;
     color: gray;
 }
 .pc{display: none;}
