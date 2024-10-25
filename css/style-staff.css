@@ -28,8 +28,6 @@ hr {
     text-align: left;
 }
 .photo img{
-    margin-top: 10px;
-    margin-bottom: 10px;
     width: 90%;
     pointer-events: none;
 }
