@@ -24,7 +24,7 @@ hr {
     margin-bottom: 20px;
     margin-left: 10%;
     margin-right: 10%;
-    font-size: 15px;
+    font-size: 16px;
     text-align: left;
 }
 .photo img{
@@ -38,17 +38,17 @@ hr {
     margin-top: 50px;
     margin-left: 10%;
     margin-right: 10%;
-    font-size: 18px;
+    font-size: 27px;
     color: rgb(65, 176, 110);
 }
 .staff-content p{
     margin-left: 10%;
     margin-right: 10%;
-    font-size: 15px;
+    font-size: 16px;
     text-align: left;
 }
 .tel-number a{
-    font-size: 18px;
+    font-size: 19px;
     color: black;
     text-decoration:none;
 }
@@ -59,7 +59,7 @@ hr {
 }
 .footer p{
     padding: 50px 0;
-    font-size: 9px;
+    font-size: 10px;
     color: gray;
 }
 
