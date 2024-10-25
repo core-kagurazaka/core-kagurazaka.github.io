@@ -20,14 +20,13 @@ hr {
 }
 
 .staff-title p{
-    margin-top: 20px;
-    margin-bottom: 20px;
     margin-left: 10%;
     margin-right: 10%;
     font-size: 16px;
     text-align: left;
 }
 .photo img{
+    margin-top: 10px;
     width: 90%;
     pointer-events: none;
 }
