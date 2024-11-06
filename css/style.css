@@ -4,12 +4,6 @@ body{
     margin: 0%;
     background-color: rgb(246, 245, 242);
 }
-@media screen and ( min-width:600px ){
-    body{
-        width: 500px;
-        text-align: center;
-    }
-}
 
 .title{
     position: fixed;
@@ -22,7 +16,7 @@ body{
 }
 @media screen and ( min-width:821px ){
   .title img{
-    width: 300px;
+    width: 250px;
       text-align: center;
       margin-top: 10px;
     }
