@@ -4,6 +4,12 @@ body{
     margin: 0%;
     background-color: rgb(246, 245, 242);
 }
+@media screen and ( min-width:600px ){
+    body{
+        width: 500px;
+        text-align: center;
+    }
+}
 
 .title{
     position: fixed;
