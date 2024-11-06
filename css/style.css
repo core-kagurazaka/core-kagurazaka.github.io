@@ -39,6 +39,15 @@ body{
     margin-bottom: 0px;
     pointer-events: none;
 }
+@media screen and ( min-width:821px ){
+  .contentimg{
+      width: 500px;
+  }
+    .contentimg_frame{
+    width: 400px;
+    }
+  }
+
 
 .message p{
     font-size: 16px;
