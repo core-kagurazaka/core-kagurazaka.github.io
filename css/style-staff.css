@@ -2,6 +2,13 @@ body{
     text-align: center;
     background-color: rgb(246, 245, 242);
 }
+@media screen and ( min-width:600px ){
+    body{
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 
 hr {
  margin-top: 35px;
@@ -69,13 +76,6 @@ hr {
     color: gray;
 }
 
-@media screen and ( min-width:600px ){
-    body{
-        width: 500px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
 
 .hamburger{
     position: fixed;
