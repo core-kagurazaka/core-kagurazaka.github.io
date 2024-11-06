@@ -17,8 +17,10 @@ body{
 @media screen and ( min-width:821px ){
   .title img{
     width: 250px;
-      text-align: center;
-      margin-top: 10px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
     }
   }
 
