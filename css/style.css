@@ -208,3 +208,11 @@ body{
     opacity: 100;
     pointer-events: all;
   }
+
+@media screen and ( min-width:600px ){
+    .menu{
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
