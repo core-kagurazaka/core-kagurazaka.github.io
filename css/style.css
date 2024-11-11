@@ -41,7 +41,11 @@ body{
 .topmargin p{
     margin-top: 115px;
 }
-
+@media screen and ( min-width:600px ){
+  .topmargin p{
+    margin-top: 200px;
+}
+  }
 
 .contentimg{
     width: 100%;
