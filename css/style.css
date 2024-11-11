@@ -76,10 +76,12 @@ body{
     margin-top: 60px;
     margin-bottom: 80px
     font-size: 27px;
+    font-family: "Sawarabi Mincho";
 }
 
 .content p{
     font-size: 16px;
+    font-family: "Sawarabi Mincho";
 }
 .content span{
     font-size: 21px;
