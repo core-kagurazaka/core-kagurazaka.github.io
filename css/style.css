@@ -55,7 +55,7 @@ body{
     margin-bottom: 0px;
     pointer-events: none;
 }
-@media screen and ( min-width:821px ){
+@media screen and ( min-width:600px ){
   .contentimg{
       width: 500px;
   }
@@ -213,9 +213,6 @@ body{
   }
 
 @media screen and ( min-width:600px ){
-    nav.menu ul li a{
-        width: 500px;
-        margin-left: auto;
-        margin-right: auto;
-    }
+    .hamburger{display:none;}
+    nav.menu{display:none;}
 }
